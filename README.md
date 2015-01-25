@@ -1,12 +1,14 @@
 # Education-Repository
-Ders Notları ve Ödevler  /  Lecture Notes & Homeworks
-Yıldız Teknik Üniversitesi / Yıldız Technical University
+Ders Notları ve Ödevler  /  Lecture Notes & Homeworks<br>
+Yıldız Teknik Üniversitesi / Yıldız Technical University<br>
 
 This repository includes that topics: 
-C Programming / Programlama Dilleri 
-Pascal Programming / BBG 1
-Data Structure / Veri Yapıları
-Database Systems / Veri Tabanı Sistemleri
-Electronic Circuits / Elektronik Devreler
-Mesleki Hukuk ve Etik
-Seminar / Seminer
+<ul>
+ <li>C Programming / Programlama Dilleri </li>
+ <li>Pascal Programming / BBG 1</li>
+ <li>Data Structure / Veri Yapıları</li>
+ <li>Database Systems / Veri Tabanı Sistemleri</li>
+ <li>Electronic Circuits / Elektronik Devreler</li>
+ <li>Mesleki Hukuk ve Etik</li>
+ <li>Seminar / Seminer </li>
+</ul>
