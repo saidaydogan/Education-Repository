@@ -1,6 +1,6 @@
 # Education-Repository
 Ders Notları ve Ödevler  /  Lecture Notes & Homeworks<br>
-Yıldız Teknik Üniversitesi / Yıldız Technical University<br>
+<b>Yıldız Teknik Üniversitesi / Yildiz Technical University<br> </b>
 
 This repository includes that topics: 
 <ul>
