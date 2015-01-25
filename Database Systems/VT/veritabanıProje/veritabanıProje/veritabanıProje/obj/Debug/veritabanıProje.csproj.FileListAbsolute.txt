@@ -1,0 +1,17 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\bin\Debug\veritabanıProje.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\bin\Debug\veritabanıProje.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\bin\Debug\veritabanıProje.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.Giriş.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.MüsteriEkleme.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.MüsteriDüzenleme.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.SiparisEkleme.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.SiparisTakip.resources
+C:\Users\Ahmet\Documents\Visual Studio 2012\Projects\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.ÖdemeTakip.resources
+C:\Users\Said\Desktop\VT\veritabanıProje\veritabanıProje\veritabanıProje\bin\Debug\veritabanıProje.exe.config
+C:\Users\Said\Desktop\VT\veritabanıProje\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.exe
+C:\Users\Said\Desktop\VT\veritabanıProje\veritabanıProje\veritabanıProje\obj\Debug\veritabanıProje.pdb

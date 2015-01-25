@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veritabanıProje", "veritabanıProje\veritabanıProje.csproj", "{149D80E9-0B5A-4B7B-897A-A53415B4DE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149D80E9-0B5A-4B7B-897A-A53415B4DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149D80E9-0B5A-4B7B-897A-A53415B4DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149D80E9-0B5A-4B7B-897A-A53415B4DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149D80E9-0B5A-4B7B-897A-A53415B4DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

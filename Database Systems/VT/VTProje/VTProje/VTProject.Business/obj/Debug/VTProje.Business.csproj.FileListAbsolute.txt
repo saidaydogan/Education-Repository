@@ -1,0 +1,13 @@
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\VTProject.Business.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\VTProject.Business.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\DynamicData.EFCodeFirstProvider.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\EntityFramework.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\VTProje.Model.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\VTProje.Model.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\EntityFramework.xml
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\obj\Debug\VTProje.Business.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\obj\Debug\VTProject.Business.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\obj\Debug\VTProject.Business.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProject.Business\bin\Debug\VTProject.Business.dll.config

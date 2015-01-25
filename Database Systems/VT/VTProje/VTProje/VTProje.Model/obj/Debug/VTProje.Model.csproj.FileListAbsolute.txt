@@ -1,0 +1,11 @@
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\VTProje.Model.dll.config
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\VTProje.Model.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\VTProje.Model.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\DynamicData.EFCodeFirstProvider.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\EntityFramework.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\EntityFramework.xml
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\obj\Debug\VTProje.Model.dll
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\obj\Debug\VTProje.Model.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje.Model\obj\Debug\VTProje.Model.csprojResolveAssemblyReference.cache

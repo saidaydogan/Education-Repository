@@ -1,0 +1,37 @@
+sorgular tamdýr. sýrayla ilerliyor 1-14.
+
+
+select isim,odemeTipi from odemeler o,fatura f,siparis s,musteri m where o.fatNo=f.fatNo and f.siparisNo=s.siparisNo and s.mid=m.mid and o.fatNo='f1' and o.taksitNo='2'
+
+
+select m.isim, k.adi from musteri m,siparis s,kitap k where k.siparisNo=s.siparisNo and s.mid=m.mid and m.isim='Ahmet'  
+
+select mid,isim from musteri where not mid in (select mid from siparis)
+
+select * from depo d,kitap k,siparis s,onlinemusteri o where  d.depoId='d2'  and k.depoId=d.depoId and k.siparisNo=s.siparisNo and s.mid=o.mid
+
+select d.depoId,count(d.depoId) from depo d,kitap k where k.depoId=d.depoId group by d.depoId order by depoId
+
+select count(distinct m.mid) from fatura f,siparis s,magazamusteri m where f.siparisNo=s.siparisNo and s.mid=m.mid and f.indirimyuzdesi <> 0
+
+
+select  m2.isim musteri2,m1.isim musteri1, k1.adi from kitap k1,kitap k2,siparis s1,siparis s2,musteri m1,musteri m2 where k1.siparisNo=s1.siparisNo and s1.mid=m1.mid and k2.siparisNo=s2.siparisNo and s2.mid=m2.mid and k1.adi = k2.adi and m1.mid <> m2.mid group by  m1.mid,m2.mid,k1.adi
+
+select fatno from odemeler o where o.odenenmiktar=0
+
+select f.fatno,odenenmiktar,(birimFiyat*miktar - birimFiyat*miktar*0.1) ToplamBorc,adi from odemeler o,fatura f,kitap k where o.fatNo=f.fatNo and f.siparisNo=k.siparisNo and odenenmiktar = (birimFiyat*miktar - birimFiyat*miktar*0.1)
+
+select f.fatno,(birimFiyat*miktar - birimFiyat*miktar*0.1) ToplamBorc,odenenmiktar,(birimFiyat*miktar - birimFiyat*miktar*0.1 - odenenmiktar) AlinmasiBeklenen,adi from odemeler o,fatura f,kitap k where o.fatNo=f.fatNo and f.siparisNo=k.siparisNo
+
+
+select m.isim,m.adres,m.musteritipi,f.fatno,f.tarihi,f.indirimyuzdesi,f.siparisno from odemeler o,fatura f,kitap k,siparis s,musteri m  where o.fatNo=f.fatNo and f.siparisNo=k.siparisNo and f.siparisNo=s.siparisNo and s.mid=m.mid and (birimFiyat*miktar - birimFiyat*miktar*0.1 - odenenmiktar) >0
+
+select m.mid,m.isim,m.adres,m.musteritipi,count(s.mid) vazgecmesayisi from siparis s,musteri m where not siparisno in (select siparisno from fatura) and s.mid=m.mid group by m.mid order by vazgecmesayisi desc limit 1
+
+
+select * from fatura f,kitap k where f.siparisNo=k.siparisNo and  (birimFiyat*miktar - birimFiyat*miktar*0.1)=(select  max(birimFiyat*miktar - birimFiyat*miktar*0.1) maksimumfatura from fatura f,kitap k where f.siparisNo=k.siparisNo)
+
+select m.mid,m.isim,m.adres from musteri m,onlinemusteri o where o.mid=m.mid order by sonziyarettarihi desc
+
+
+

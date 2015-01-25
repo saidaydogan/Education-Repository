@@ -1,0 +1,27 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\bin\Debug\VTProje.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\bin\Debug\VTProje.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\bin\Debug\VTProje.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.Giris.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.MüsteriEkleme.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.MüsteriDüzenleme.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.SiparisEkleme.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.siparisTakip.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\VTProje\VTProje\obj\Debug\VTProje.ödemeTakip.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\bin\Debug\VTProje.exe
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\bin\Debug\VTProje.pdb
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.csprojResolveAssemblyReference.cache
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.Giris.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.MüsteriDüzenleme.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.MüsteriEkleme.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.Properties.Resources.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.SiparisEkleme.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.siparisTakip.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.ödemeTakip.resources
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.csproj.GenerateResource.Cache
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.exe
+C:\Users\Said\Desktop\VT\VTProje\VTProje\VTProje\obj\Debug\VTProje.pdb
